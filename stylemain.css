@@ -1,0 +1,24 @@
+.pls {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+html {
+    background-color: snow;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    color: black;
+    display: inline;
+    float: center;
+}

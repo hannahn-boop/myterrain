@@ -1,0 +1,160 @@
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 1700px;
+    width: 100%;
+    height: 100%;
+    width: 1700px;
+    height: 1000px; 
+    display: block; 
+    height:90%; 
+    width: 90%; 
+    background-position: center;
+    background-size: cover; 
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 40px;
+}
+  
+.container img {
+    width: 100%;
+    height: 100%;
+    width: 1700px;
+    height: 1000px; 
+    display: block; 
+    height:90%; 
+    width: 90%; 
+    background-position: center;
+    background-size: cover; 
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 40px;
+    border-radius: 35px;
+}
+  
+
+
+.container .btf1 {
+    position: absolute;
+    top: 18%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    color: white;
+    font-size: 16px;
+    background: transparent;
+    padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 50%;
+    text-align: center;
+    height: 15%;
+    width: 15%;
+}
+  
+
+
+
+.container .btf2 {
+    position: absolute;
+    top: 35%;
+    left: 58%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background: transparent;
+    color: white;
+    font-size: 16px;
+    padding: 10px 10px;        
+    border: none;
+    cursor: pointer;
+    height: 15%;
+    width: 10%;
+    border-radius: 50%;
+    text-align: center;}
+      
+
+    
+
+
+.container .btf3 {
+    position: absolute;
+    top: 43%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background: transparent;
+    color: white;
+    font-size: 16px;
+    padding: 10px 10px;
+    border: none;
+    height: 15%;
+    width: 10%;
+    cursor: pointer;
+    border-radius: 50%;
+    text-align: center;}
+          
+
+
+
+
+.container .btf4 {
+    position: absolute;
+    top: 10%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background: transparent;
+    color: white;
+    font-size: 16px;
+    padding: 10px 10px;
+    border: none;
+    height: 15%;
+    width: 10%;
+    cursor: pointer;
+    border-radius: 50%;
+    text-align: center;}
+              
+
+
+
+
+.container .btf5 {
+    position: absolute;
+    top: 15%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background:transparent;
+    font-size: 16px;
+    padding: 10px 10px;
+    border: none;
+    height: 15%;
+    width: 10%;
+    cursor: pointer;
+    border-radius: 50%;
+    text-align: center;}
+              
+
+
+
+.container .btf6 {
+    position: absolute;
+    top: 5%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    font-size: 16px;
+    size: 5%;
+    padding: 5px 5px;
+    border: none;
+    height: 20%;
+    width: 15%;
+    cursor: pointer;
+    border-radius: 50%;
+    text-align: center;
+    background: transparent;
+}
+              
+

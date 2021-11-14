@@ -1,0 +1,22 @@
+body {
+    background-color: snow;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 150px;
+
+}
+
+img {
+    size: 25%;
+    border: 2px;
+}
+
+.resize {
+    width: 400px;
+    size: 100%;
+}
+
+p.big {
+    line-height: 20%;
+}
+
